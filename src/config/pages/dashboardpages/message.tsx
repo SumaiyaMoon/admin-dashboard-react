@@ -1,6 +1,6 @@
 import { Box, Typography } from "@mui/material";
 
-export default function Message() {
+export default function MessageComp() {
   return (
     <>
       <Box>
